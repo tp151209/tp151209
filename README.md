@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tp151209
 - 👀 I’m interested in programming (d'oh!), gaming (gimme puzzles!), cooking, drawing, ...
-- 🌱 I’m currently learning Forth (for the last [not so few] few years), Python, crochet
+- 🌱 I’m currently learning Forth (for the last [not so] few years), Python, crochet
 - 💞️ I’m looking to collaborate on things I find interesting 😄
 - 📫 If you must contact me, use my GitHub name and Google's email service
 
